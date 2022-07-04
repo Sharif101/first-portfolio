@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fexible-container
+{
+    display: flex;
+}
+.half-width
+{
+    width: 50%;
+}
+
+.text
+{
+    padding: 80px;
+}
+
+.text h1,h2
+{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgba(52, 248, 26, 0.623);
+}
+.text span
+{
+    color: rgb(218, 162, 58);
+}
+
+.text p
+{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.text .btn
+{
+    text-decoration: none;
+    background: rgb(250, 163, 33);
+    color: wheat;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 8px;
+}
+
+.img img
+{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
